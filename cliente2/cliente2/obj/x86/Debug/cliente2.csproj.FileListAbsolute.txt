@@ -1,0 +1,9 @@
+C:\Users\User\AppData\Local\Temporary Projects\cliente2\bin\Debug\cliente2.exe
+C:\Users\User\AppData\Local\Temporary Projects\cliente2\bin\Debug\cliente2.pdb
+C:\Users\User\AppData\Local\Temporary Projects\cliente2\obj\x86\Debug\cliente2.ConversorTemp.resources
+C:\Users\User\AppData\Local\Temporary Projects\cliente2\obj\x86\Debug\cliente2.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\cliente2\obj\x86\Debug\cliente2.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\cliente2\obj\x86\Debug\cliente2.exe
+C:\Users\User\AppData\Local\Temporary Projects\cliente2\obj\x86\Debug\cliente2.pdb
+D:\UNI3A\SO\Ejercicio Guia\cliente2\cliente2\obj\x86\Debug\cliente2.exe
+D:\UNI3A\SO\Ejercicio Guia\cliente2\cliente2\obj\x86\Debug\cliente2.pdb
